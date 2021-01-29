@@ -17,6 +17,7 @@
 		196ED27D25BF0A0C00639522 /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196ED27C25BF0A0C00639522 /* BlueViewController.swift */; };
 		196ED28C25BF107900639522 /* NextPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196ED28B25BF107900639522 /* NextPageViewController.swift */; };
 		1980DBC425C435BB0050F2F8 /* ModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1980DBC325C435BB0050F2F8 /* ModalViewController.swift */; };
+		1B65413825C43A66007B6E00 /* DashunViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B65413725C43A66007B6E00 /* DashunViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		196ED27C25BF0A0C00639522 /* BlueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
 		196ED28B25BF107900639522 /* NextPageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NextPageViewController.swift; sourceTree = "<group>"; };
 		1980DBC325C435BB0050F2F8 /* ModalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModalViewController.swift; sourceTree = "<group>"; };
+		1B65413725C43A66007B6E00 /* DashunViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashunViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 		196ED27125BF097500639522 /* TabBar */ = {
 			isa = PBXGroup;
 			children = (
+				1B65413625C43A3A007B6E00 /* Dashun814 */,
 				196ED27425BF09A300639522 /* Yellow */,
 				196ED27325BF099300639522 /* Green */,
 				196ED27225BF098600639522 /* Blue */,
@@ -109,6 +112,14 @@
 				196ED28B25BF107900639522 /* NextPageViewController.swift */,
 			);
 			path = Yellow;
+			sourceTree = "<group>";
+		};
+		1B65413625C43A3A007B6E00 /* Dashun814 */ = {
+			isa = PBXGroup;
+			children = (
+				1B65413725C43A66007B6E00 /* DashunViewController.swift */,
+			);
+			path = Dashun814;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -185,6 +196,7 @@
 				196ED28C25BF107900639522 /* NextPageViewController.swift in Sources */,
 				195F128225BC933E00961B29 /* AppDelegate.swift in Sources */,
 				195F128425BC933E00961B29 /* SceneDelegate.swift in Sources */,
+				1B65413825C43A66007B6E00 /* DashunViewController.swift in Sources */,
 				196ED27D25BF0A0C00639522 /* BlueViewController.swift in Sources */,
 				196ED27A25BF09F800639522 /* GreenViewController.swift in Sources */,
 				1980DBC425C435BB0050F2F8 /* ModalViewController.swift in Sources */,

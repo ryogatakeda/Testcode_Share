@@ -28,8 +28,13 @@ class MainTabBarController: UITabBarController {
         yellowVC.tabBarItem = UITabBarItem(tabBarSystemItem: .contacts, tag: 2)
         let yellowNVC = UINavigationController(rootViewController: yellowVC)
         
+        //Dashun テスト用
+        let dashunVC = DashunViewController()
+        dashunVC.tabBarItem = UITabBarItem(tabBarSystemItem: .favorites, tag: 3)
+        let dashunNVC = UINavigationController(rootViewController: dashunVC)
+        
         //まとめておく
-        setViewControllers([blueNVC,greenNVC,yellowNVC], animated: false)
+        setViewControllers([blueNVC,greenNVC,yellowNVC,dashunNVC], animated: false)
     }
 }
 

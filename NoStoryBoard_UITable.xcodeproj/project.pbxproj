@@ -15,8 +15,8 @@
 		196ED27625BF09E400639522 /* YellowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196ED27525BF09E400639522 /* YellowViewController.swift */; };
 		196ED27A25BF09F800639522 /* GreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196ED27925BF09F800639522 /* GreenViewController.swift */; };
 		196ED27D25BF0A0C00639522 /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196ED27C25BF0A0C00639522 /* BlueViewController.swift */; };
-		196ED28725BF104200639522 /* ModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196ED28625BF104200639522 /* ModalViewController.swift */; };
 		196ED28C25BF107900639522 /* NextPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196ED28B25BF107900639522 /* NextPageViewController.swift */; };
+		1980DBC425C435BB0050F2F8 /* ModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1980DBC325C435BB0050F2F8 /* ModalViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,8 +30,8 @@
 		196ED27525BF09E400639522 /* YellowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YellowViewController.swift; sourceTree = "<group>"; };
 		196ED27925BF09F800639522 /* GreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenViewController.swift; sourceTree = "<group>"; };
 		196ED27C25BF0A0C00639522 /* BlueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
-		196ED28625BF104200639522 /* ModalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ModalViewController.swift; path = ../../../../NoStoryBoard_UITable/NoStoryBoard_UITable/ModalViewController.swift; sourceTree = "<group>"; };
 		196ED28B25BF107900639522 /* NextPageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NextPageViewController.swift; sourceTree = "<group>"; };
+		1980DBC325C435BB0050F2F8 /* ModalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModalViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +105,7 @@
 			isa = PBXGroup;
 			children = (
 				196ED27525BF09E400639522 /* YellowViewController.swift */,
-				196ED28625BF104200639522 /* ModalViewController.swift */,
+				1980DBC325C435BB0050F2F8 /* ModalViewController.swift */,
 				196ED28B25BF107900639522 /* NextPageViewController.swift */,
 			);
 			path = Yellow;
@@ -187,7 +187,7 @@
 				195F128425BC933E00961B29 /* SceneDelegate.swift in Sources */,
 				196ED27D25BF0A0C00639522 /* BlueViewController.swift in Sources */,
 				196ED27A25BF09F800639522 /* GreenViewController.swift in Sources */,
-				196ED28725BF104200639522 /* ModalViewController.swift in Sources */,
+				1980DBC425C435BB0050F2F8 /* ModalViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

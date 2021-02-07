@@ -1,5 +1,3 @@
-# Testcode_Share
-
 # テスト置き場
 
 ### 決め事一覧
@@ -12,4 +10,4 @@
 
 ### 導入ツール
 - Cocoapods
-  NoStoryBoard_UITable.xcworkspaceでプロジェクトを開くこと
+  - NoStoryBoard_UITable.xcworkspaceでプロジェクトを開くこと
